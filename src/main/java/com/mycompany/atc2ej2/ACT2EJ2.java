@@ -24,6 +24,7 @@ public class ACT2EJ2 {
         System.out.println("Para probar git");
        System.out.println("Para probar git");
                
-  
+        System.out.println("");
+        
     }
 }
